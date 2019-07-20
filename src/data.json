@@ -1,61 +1,61 @@
 [{
     "id": 1,
-    "image": "/assets/images/poop.jpeg",
+    "image": "/Clicky-Game/assets/images/poop.jpeg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/happy.jpeg",
+    "image": "/Clicky-Game/assets/images/happy.jpeg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/hearth-eyes.jpeg",
+    "image": "/Clicky-Game/assets/images/hearth-eyes.jpeg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/thumbs-up.jpeg",
+    "image": "/Clicky-Game/assets/images/thumbs-up.jpeg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/happy.jpeg",
+    "image": "/Clicky-Game/assets/images/happy.jpeg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/hearth-eyes.jpeg",
+    "image": "/Clicky-Game/assets/images/hearth-eyes.jpeg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/kiss.jpeg",
+    "image": "/Clicky-Game/assets/images/kiss.jpeg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/sad.jpeg",
+    "image": "/Clicky-Game/assets/images/sad.jpeg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/silly.jpeg",
+    "image": "/Clicky-Game/assets/images/silly.jpeg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/lol.jpeg",
+    "image": "/Clicky-Game/assets/images/lol.jpeg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/blowing kiss.jpeg",
+    "image": "/Clicky-Game/assets/images/blowing kiss.jpeg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/***.jpeg",
+    "image": "/Clicky-Game/assets/images/***.jpeg",
     "clicked": false
   }
 ]
