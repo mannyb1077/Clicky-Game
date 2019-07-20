@@ -1,62 +1,61 @@
-[
-  {
+[{
     "id": 1,
-    "image": "/assets/images/beth.png",
+    "image": "/assets/images/poop.jpeg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/birdperson.png",
+    "image": "/assets/images/happy.jpeg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/evilmorty.png",
+    "image": "/assets/images/hearth-eyes.jpeg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/gianthead.png",
+    "image": "/assets/images/thumbs-up.jpeg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/goldenford.png",
+    "image": "/assets/images/happy.jpeg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/jerry.png",
+    "image": "/assets/images/hearth-eyes.jpeg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/jessica.png",
+    "image": "/assets/images/kiss.jpeg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/meeseeks.png",
+    "image": "/assets/images/sad.jpeg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/morty.png",
+    "image": "/assets/images/silly.jpeg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/mr.png",
+    "image": "/assets/images/lol.jpeg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/rick.png",
+    "image": "/assets/images/blowing kiss.jpeg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/summer.png",
+    "image": "/assets/images/***.jpeg",
     "clicked": false
   }
 ]

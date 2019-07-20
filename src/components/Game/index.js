@@ -3,8 +3,8 @@ import Nav from "../Nav";
 import Header from "../Header";
 import Container from "../Container";
 import ClickItem from "../ClickItem";
-import Footer from "../Footer";
 import data from "../../data.json";
+import "./style.css";
 
 class Game extends Component {
   state = {
@@ -86,7 +86,6 @@ class Game extends Component {
             />
           ))}
         </Container>
-        <Footer />
       </div>
     );
   }
